@@ -44,6 +44,12 @@ video {
   left: 0;
 }
 
+img {float: left;
+text-align: center;
+width: 200px;
+height: 200px;
+position: absolute;}
+
 
 
 
