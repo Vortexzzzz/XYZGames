@@ -50,6 +50,24 @@ width: 200px;
 height: 200px;
 position: absolute;}
 
+.item {
+  display: grid;
+}
+
+.item img {
+    width: 188px;
+    height: 188px;
+}
+.caption {
+    display: block;
+} 
+
+a {
+  color: #0b28e8;
+  text-decoration: none;
+  text-align: center;
+      }  
+
 
 
 
