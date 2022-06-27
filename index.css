@@ -45,6 +45,9 @@ video {
   left: 0;
 }
 
+
+
+
 img{
     width: 300px;
     height: 200px;
@@ -80,6 +83,13 @@ img{
     justify-content: left;
     margin-left: 20px;
 } 
+
+a {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
 
 a {
   color: #0b28e8;
