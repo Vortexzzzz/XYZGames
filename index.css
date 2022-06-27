@@ -45,22 +45,40 @@ video {
   left: 0;
 }
 
-img {float: left;
-text-align: center;
-width: 200px;
-height: 200px;
-position: absolute;}
-
-.item {
-  display: grid;
+img{
+    width: 300px;
+    height: 200px;
+ justify-content: left;
+    display: flex;
 }
 
 .item img {
+    border-radius: 3%;
+    margin-left: 20px
+   }
+
+   .item {
+    display: grid;
+    margin-left: 20px;
+  }
+
+  div.item {
+    vertical-align: top;
+    display: inline-block;
+    width: 188px;
+    margin-left: 20px;
+
+}
+.item img {
     width: 188px;
     height: 188px;
+    margin-left: 20px;
 }
 .caption {
     display: block;
+    display: grid;
+    justify-content: left;
+    margin-left: 20px;
 } 
 
 a {
