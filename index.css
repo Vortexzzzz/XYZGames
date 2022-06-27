@@ -92,9 +92,10 @@ a {
 }
 
 a {
-  color: #0b28e8;
+      color: white;
   text-decoration: none;
   text-align: center;
+ margin-left: 5px;
       }  
 
 
